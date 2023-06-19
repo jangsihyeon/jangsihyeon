@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Look_around👻&fontSize=90" />
-
+<div align="center">
 ✔ Tech Stack ✔
 <br>
 <br>
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div>
