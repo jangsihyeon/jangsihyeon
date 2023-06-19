@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Look_around👻&fontSize=90" />
 
 ✔ Tech Stack ✔
-<img src="https://img.shields.io/badge/Visual Studio-#5C2D91?style=flat&logo=VS&logoColor=white"/>
+<br>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/JAVA-5554FB?style=for-the-badge&logo=java&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
