@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/JAVA-5554FB?style=for-the-badge&logo=java&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
