@@ -36,4 +36,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
+  <br>
+  <br>
+✔ I want to be a Data Scientist or Data Analyst 👩‍💻 ✔
 </div>
+
+<div align="center">
+
+</div>
+
+
