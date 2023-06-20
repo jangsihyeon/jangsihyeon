@@ -1,6 +1,8 @@
-<div align=center><h1>Hello, Stranger 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Look_around👻&fontSize=90" /><div align=center>
+<h1>Hello, Stranger 👋
+</h1></div>
 
-<!--
+<!-- 주석
 **jangsihyeon/jangsihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Look_around👻&fontSize=90" />
-</h1></div>
+
+
 <div align="center">
 ✔ I can do this ✔
 <br>
