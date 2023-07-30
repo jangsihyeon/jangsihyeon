@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 ✔ I want to be a Data Scientist or Data Analyst 👩‍💻 ✔
 
-✔ If you want to ask something, please contanct to my email :)
+✔ If you want to ask something, please contact to my email :)
 </div>
 
 <div align="center">
