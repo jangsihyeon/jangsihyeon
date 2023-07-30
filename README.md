@@ -20,22 +20,21 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-✔ I can do this ✔
+✔ I can do(use) this ✔
 <br>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-5554FB?style=for-the-badge&logo=java&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Raspverry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <br>
-
-✔ I can use this ✔
 <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+
 <br>
 <br>
 ✔ I want to be a Data Scientist or Data Analyst 👩‍💻 ✔
