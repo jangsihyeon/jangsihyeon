@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-✔ I want to be a Data Scientist or Data Analyst 👩‍💻 ✔
-
-✔ If you want to ask something, please contact to my email :)
+👩‍💻데이터 분석 + ML 포트폴리오 중..
 </div>
 
 <div align="center">
